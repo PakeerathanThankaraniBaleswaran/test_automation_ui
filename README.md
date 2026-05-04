@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automation Assignment Submission Notes
 
 This project follows the `Python + Playwright` format described in the assignment instructions.
@@ -60,3 +61,7 @@ py run_assignment.py
 
 - If `sample.png` does not exist, the script creates a tiny valid PNG automatically.
 - The CSV and Excel files are refreshed on each run so the latest result is easy to submit.
+=======
+# test_automation_ui
+This is my Y3S1 ITPM asseintment
+>>>>>>> 7f4db52c55f9222436af3ff8784bb70db2158042
