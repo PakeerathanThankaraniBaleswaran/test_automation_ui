@@ -1,0 +1,2 @@
+timestamp,url,file_type,file_path,file_name,preview_detected,status,message,before_upload_screenshot,after_upload_screenshot
+2026-05-04T21:10:33,https://www.pixelssuite.com/convert-to-png,PNG,C:\Y3sS1\ITPM\test_automation_ui\sample.png,sample.png,True,PASS,PNG uploaded successfully and preview was detected.,C:\Y3sS1\ITPM\test_automation_ui\results\01_before_upload.png,C:\Y3sS1\ITPM\test_automation_ui\results\02_after_upload_pass.png
